@@ -1,0 +1,8 @@
+server:
+  port: 25100
+
+spring:
+  application:
+    name: provider-demo
+  profiles:
+    active: dev
