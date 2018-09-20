@@ -1,8 +1,10 @@
-server:
-  port: 25100
+#server:
+#  port: 25100
+#
+#spring:
+#  application:
+#    name: provider-demo
+#  profiles:
+#    active: dev
 
-spring:
-  application:
-    name: provider-demo
-  profiles:
-    active: dev
+title: 测试一下
